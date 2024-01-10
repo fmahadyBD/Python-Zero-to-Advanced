@@ -1,0 +1,10 @@
+string="fahim"
+inte=1
+fx=20.5
+complexs=2j
+lists=["mahady","hasan","fahim"]
+tuples=("mahady","hasan","fahim")
+ranges=range(6)
+dicts={"name":"Fahim","age":10}
+stes={"Mahady","Hasan","Fahim"}
+bytess=b"Fahim"
